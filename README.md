@@ -1,7 +1,7 @@
-# Xatkit Bot Template
+# Gamification Design Framework (GDF) Bot
 This repository contains the implementation of a bot to help Gamification Designer to define and deploy a new game.
 
-## What's included in this template?
+<>## What's included in this template?
 The maven project in this template embeds the following dependencies:
 <>- Xatkit Core (_com.xatkit.core_): the Xatkit SDK, this dependency contains the DSL to create Xatkit bots, as well as the runtime engine to execute them.
 <>- Xatkit Chat Platform (_com.xatkit.chat-platform-runtime_): a generic platform representing a chat
@@ -15,7 +15,7 @@ The maven project in this template embeds the following dependencies:
 
 <>**Note:** you can remove the Xatkit Chat Platform and Xatkit React Platform dependencies if you don't need them, but they are required to run the _GreetingsBot_ example.
 
-## How to use the template?
+<>## How to use the template?
 <>Click on the button below to create a new repository from this template and follow the instructions.
 <>[![Use this template](docs/img/template_button.png)](https://github.com/xatkit-bot-platform/xatkit-bot-template/generate)
 
